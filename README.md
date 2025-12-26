@@ -21,8 +21,5 @@ A Python command-line tool that simulates inventory management tasks:
 - **Testing & Evidence**  
   Ran edge-case tests (invalid menu choice, insufficient stock, no results) and documented outputs in the test log and screenshots.
 
-## Evidence Included
-- `my_changes.diff` — patch showing exactly what I changed
-
 ## Notes
 Shared for portfolio purposes to demonstrate my work on input validation, search usability, and test documentation.
